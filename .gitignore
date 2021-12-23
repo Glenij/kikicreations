@@ -1,6 +1,7 @@
 "node_modules" 
 ".netlify" 
-"node_modules" 
+gitignore 
 
 # Local Netlify folder
 .netlify
+functions/node_modules
